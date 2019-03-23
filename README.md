@@ -1,4 +1,4 @@
-# workshopHM.LINQ
+# workshopHW.LINQ
 ## Tasks. Do not use extension methods!
 
 1. Issue a list of all customers whose total turnover (the sum of all orders) exceeds some value X. Demonstrate the execution of a query with different X (think whether you can do without copying the query several times)
@@ -11,7 +11,7 @@
 
 5. Do the previous task, but give the list sorted by year, month, customer turnovers (from maximum to minimum) and customer name
 
-6. Indicate all customers who have a non-numeric postal code or a region is empty or the operator code is not specified in the phone (for simplicity, we assume that this is equivalent to ìno round brackets at the beginningî).
+6. Indicate all customers who have a non-numeric postal code or a region is empty or the operator code is not specified in the phone (for simplicity, we assume that this is equivalent to ‚Äúno round brackets at the beginning‚Äù).
 
 7. Group all products into categories, inside - by stock availability, within the last group, sort by cost.
 
